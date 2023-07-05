@@ -1,0 +1,19 @@
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.exe.config
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.exe
+C:\Users\armin\Desktop\Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.exe
+C:\Users\armin\Desktop\Maze\Maze\obj\Debug\Maze.pdb
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\bin\Debug\Maze.exe.config
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\bin\Debug\Maze.exe
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\bin\Debug\Maze.pdb
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.csproj.AssemblyReference.cache
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.Form1.resources
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.Properties.Resources.resources
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.exe
+C:\Users\Mcintosh\Downloads\2. взаимодействие с элементами управления\Maze - Copy\Maze\obj\Debug\Maze.pdb
